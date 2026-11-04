@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": true,
+    "name": "card-user",
+    "author": "CatannaDev",
+    "description": "Automatically learn card uwu",
+    "options": {
+        "niceName": "Card User"
+    },
+    "servers": [
+        "https://raw.githubusercontent.com/CatAnnaDec/card-user/master/"
+    ],
+    "supportUrl": "https://github.com/CarAnnaDev/card-user/issues"
+}
